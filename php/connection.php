@@ -1,7 +1,7 @@
 <?php
 //Dados de conexão com o banco
 $host='localhost';
-$db = 'softexperteduardo';
+$db = 'SoftExpertEduardo';
 $username = 'postgres';
 $password = '111111';
 $dsn = "pgsql:host=$host;port=5432;dbname=$db;user=$username;password=$password";
