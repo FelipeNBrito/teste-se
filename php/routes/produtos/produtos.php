@@ -1,8 +1,5 @@
 <?php
 
-require_once("../../classes/Produto.php");
-require_once("../../connection.php");
-
 $produto = new Produto($conexao);
 try{
 switch ($_SERVER['REQUEST_METHOD']) {
