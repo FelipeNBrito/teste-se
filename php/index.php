@@ -11,5 +11,5 @@ require_once 'classes/Categoria.php';
 require_once 'classes/Produto.php';
 
 #Aplicar rota
-require_once './routes/'.$rota.'.php';
+require_once 'routes/'.$rota.'.php';
 ?>
