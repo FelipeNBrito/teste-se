@@ -3,7 +3,7 @@
 $host='localhost';
 $db = 'softexperteduardo';
 $username = 'postgres';
-$password = '1234';
+$password = '111111';
 $dsn = "pgsql:host=$host;port=5432;dbname=$db;user=$username;password=$password";
  
 //Tenta conextar ao banco
